@@ -2,4 +2,5 @@
 
 ##Author
 - Charles Benkard
-Solving merge conflicts is easy!
+  
+#Solving merge conflicts is easy!
