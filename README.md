@@ -1,2 +1,4 @@
-Learning about Version Control;
-Author: Charles Benkard
+# Learning about Version Control;
+
+##Author
+- Charles Benkard
